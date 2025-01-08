@@ -124,21 +124,31 @@
 
 首先，<a href="https://wallvpn.com/go/speedin/">点击进入到快帆VPN官网</a>。如果你是新用户，请点击“注册”按钮，按照提示填写必要信息完成账号注册。已有账号的用户可以直接使用已注册的邮箱和密码登录。如果忘记密码，可以点击“忘记密码”选项，通过邮箱或手机号码找回密码。
 
+![快帆兑换码使用步骤一：注册或登录快帆账号](https://raw.githubusercontent.com/chinavpns/speedin-vpn/refs/heads/main/image/speedin-vpn-coupon-1.jpg)
+
 **第二步：进入兑换码兑换页面**
 
 登录成功后，在账号页面找到右上角的个人头像，点击进入用户中心。在菜单栏中，找到“兑换码”选项并点击，即可进入优惠券兑换页面。如果未看到该选项，请确认你的客户端是否已更新至最新版本。
+
+![快帆兑换码使用步骤二：进入兑换码兑换页面](https://raw.githubusercontent.com/chinavpns/speedin-vpn/refs/heads/main/image/speedin-vpn-coupon-2.jpg)
 
 **第三步：输入兑换码并提交**
 
 在兑换页面，你会看到一个输入框，请将持有的兑换码（例如：**wallvpn**）准确输入其中，确保没有空格或多余字符。核对无误后，点击下方的“立即兑换”按钮。系统会自动验证兑换码的有效性，并提示兑换结果。如果兑换成功，系统会显示“兑换成功”的提示信息。
 
+![快帆VPN兑换码使用步骤三：输入兑换码并提交](https://raw.githubusercontent.com/chinavpns/speedin-vpn/refs/heads/main/image/speedin-vpn-coupon-3.jpg)
+
 **第四步：查看并使用优惠券**
 
 成功兑换后，你可以返回用户中心，点击“查看卡券”按钮，进入卡券管理页面。在这里，你可以查看刚刚兑换的优惠券及其详细信息，包括适用条件和有效期。在购买VIP套餐时，你可以选择适合的优惠券进行使用，从而享受相应的折扣或延长VIP使用期限。
 
+![快帆VPN兑换码使用步骤四：查看并使用优惠券](https://raw.githubusercontent.com/chinavpns/speedin-vpn/refs/heads/main/image/speedin-vpn-coupon-4.jpg)
+
 **第五步：应用优惠券并完成支付**
 
 在购买VIP套餐时，选择所需的套餐（如月付、季付或年付），并在支付页面中选择已兑换的优惠券。系统会自动应用折扣，并更新支付金额。确认支付金额后，选择支持的支付方式（如支付宝、微信支付或国际信用卡）完成支付。
+
+![快帆加速器兑换码使用步骤五：应用优惠券并完成支付](https://raw.githubusercontent.com/chinavpns/speedin-vpn/refs/heads/main/image/speedin-vpn-coupon-5.jpg)
 
 **使用快帆兑换码注意事项**
 
