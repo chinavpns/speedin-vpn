@@ -1,6 +1,8 @@
 # 快帆加速器评价：快帆好用吗？快帆VPN安全吗？
 
-<p align="center">最近更新于：2025年1月8日</p>
+<p align="center">最近更新于：2025年1月10日</p>
+
+![快帆加速器评价：快帆好用吗？快帆VPN安全吗](https://raw.githubusercontent.com/chinavpns/speedin-vpn/refs/heads/main/image/speedin-vpn.png)
 
 对于许多身处海外的华人用户来说，稳定访问国内网络资源已成为一种刚需。从观看热门电视剧、追踪体育赛事直播，到使用微信与亲友保持联系，这些场景都依赖于一个高效、可靠的回国网络加速工具。在众多同类产品中，快帆VPN凭借卓越的性能、智能的技术优化以及良好的用户体验，成为了众多海外用户的首选。
 
