@@ -1,6 +1,6 @@
 # <p align="center">快帆加速器评价：快帆好用吗？快帆VPN安全吗？</p>
 
-<p align="center">最近更新于：2025年8月14日</p>
+<p align="center">最近更新于：2025年9月6日</p>
 
 ![快帆加速器评价：快帆好用吗？快帆VPN安全吗](https://raw.githubusercontent.com/chinavpns/speedin-vpn/refs/heads/main/image/speedin-vpn.png)
 
